@@ -1,1 +1,1 @@
-# -Expense-Tracker
+The Expense Tracker is designed to meticulously record and manage financial transactions. This project focuses on building a user-friendly system that simplifies tracking daily expenses, categorizing them, and analyzing spending patterns over time. It aims to assist individuals in gaining a clearer understanding of their financial habits, enabling them to make smarter budgeting decisions and improve their overall financial health.
